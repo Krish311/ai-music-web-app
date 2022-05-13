@@ -10,3 +10,12 @@
 #img{
     width: 100%;
 }
+.start_button{
+    width:130px;
+    font-size:25px;
+    background-color: rgb(90, 221, 90);
+}
+canvas{
+    border:5px solid white;
+    border: 20px;
+}
