@@ -1,21 +1,29 @@
-.heading{
-    font-size: 23px;
-    width: 100%;
-    margin: 0px;
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
 }
-.note{
-    font-size: 15px;
-    color: black;
+.note
+{
+  font-size: 15px;
+  color: black;
 }
-#img{
-    width: 100%;
+body
+{
+  background-size: cover;	
 }
-.start_button{
-    width:130px;
-    font-size:25px;
-    background-color: rgb(90, 221, 90);
-}
-canvas{
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+    canvas 
+  {
     border:5px solid white;
-    border: 20px;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+  }
+body{
+    background-size: cover;
 }
